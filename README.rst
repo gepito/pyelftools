@@ -1,3 +1,5 @@
+This fork aims to extend the original pyelftools with write capability
+
 ==========
 pyelftools
 ==========
